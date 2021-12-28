@@ -1,0 +1,116 @@
+body{
+   
+    background-image: url("images/wallpaper.png");
+    display: flex;
+    background-size: cover;
+    margin: 0;
+    width: auto;
+    height:auto;
+    align-items: center;
+    justify-content: center;
+    
+}
+#image{
+   margin-top: 20%;
+   margin-bottom: 5%;
+   border-style:dotted;
+   display: block;
+}
+.button{
+   padding: 3%;
+   background-color: #480032;
+   color: white;
+   font-size: 300%;
+   text-align:center;
+   margin-top: 5%;
+  width: 500px;
+}
+.button:hover{
+   opacity: 0.8;
+   
+ }
+
+ /* page 2 */
+ #form{
+    font-size: 100%;
+    text-align: center;
+ }
+ #h2{
+    font-size: 100px;
+ }
+ .label{
+    font-size: 30px;
+ }
+ #div-background{
+    background-color: #f6e8e8;
+    width: 700px;
+ }
+ 
+ .number {
+   background-color: #492540;
+   color: #fff;
+   height: 30px;
+   width: 30px;
+   display: inline-block;
+   font-size: 0.8em;
+   margin-right: 4px;
+   line-height: 30px;
+   text-align: center;
+   text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+   border-radius: 100%;
+ }
+#submit-account{
+   padding: 19px 39px 18px 39px;
+   color: #FFF;
+   background-color: #764f51;
+   font-size: 18px;
+   text-align: center;
+   font-style: normal;
+   border-radius: 5px;
+   width: 100%;
+   border: 1px solid #764f51;
+   border-width: 1px 1px 3px;
+   box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+   margin-bottom: 10px;
+ }
+ legend{
+    font-size: 40px;
+ }
+ #introduction1{
+    font-size: 50px;
+ }
+ #introduction2{
+    font-size: 30px;
+ }
+ 
+ .input{
+    width: 300px;
+    height: 20px;
+ }
+/* page-return */
+#return-button{
+   padding: 3%;
+   background-color: #480032;
+   color: white;
+   font-size: 300%;
+   text-align:center;
+   margin-top: 5%;
+  width: 500px;
+}
+#added{
+text-align: center;
+}
+#profile{
+   height: 100px;
+   width: 100px;
+}
+#div3-background{
+   margin-top: 180px;
+   background-color: #a2a8d3;
+   text-align: center;
+}
+.error{
+   color: red;
+}
+
+
